@@ -1,1 +1,1 @@
-# Frontend-Mentor---Interactive-rating-component-with-flex-box
+# Frontend-Mentor-Interactive-rating-component-with-flex-box
